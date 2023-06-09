@@ -1,0 +1,15 @@
+/Users/jamos/Projects/Assignment 3/Assignment 3/obj/Debug/net7.0/taskManager.csproj.AssemblyReference.cache
+/Users/jamos/Projects/Assignment 3/Assignment 3/obj/Debug/net7.0/taskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamos/Projects/Assignment 3/Assignment 3/obj/Debug/net7.0/taskManager.AssemblyInfoInputs.cache
+/Users/jamos/Projects/Assignment 3/Assignment 3/obj/Debug/net7.0/taskManager.AssemblyInfo.cs
+/Users/jamos/Projects/Assignment 3/Assignment 3/obj/Debug/net7.0/taskManager.csproj.CoreCompileInputs.cache
+/Users/jamos/Projects/Assignment 3/Assignment 3/bin/Debug/net7.0/taskManager
+/Users/jamos/Projects/Assignment 3/Assignment 3/bin/Debug/net7.0/taskManager.deps.json
+/Users/jamos/Projects/Assignment 3/Assignment 3/bin/Debug/net7.0/taskManager.runtimeconfig.json
+/Users/jamos/Projects/Assignment 3/Assignment 3/bin/Debug/net7.0/taskManager.dll
+/Users/jamos/Projects/Assignment 3/Assignment 3/bin/Debug/net7.0/taskManager.pdb
+/Users/jamos/Projects/Assignment 3/Assignment 3/obj/Debug/net7.0/taskManager.dll
+/Users/jamos/Projects/Assignment 3/Assignment 3/obj/Debug/net7.0/refint/taskManager.dll
+/Users/jamos/Projects/Assignment 3/Assignment 3/obj/Debug/net7.0/taskManager.pdb
+/Users/jamos/Projects/Assignment 3/Assignment 3/obj/Debug/net7.0/taskManager.genruntimeconfig.cache
+/Users/jamos/Projects/Assignment 3/Assignment 3/obj/Debug/net7.0/ref/taskManager.dll
